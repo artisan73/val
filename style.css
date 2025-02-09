@@ -3,7 +3,8 @@ body, html {
     padding: 0;
     height: 100%;
     overflow: hidden;
-    background-color: #1a1a1a;
+    /*background-color: #1a1a1a;*/
+    background-color: black;
 }
 
 #network-canvas {
